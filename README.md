@@ -11,4 +11,4 @@ This is the ubuntu toolbox for using in China
 
 # Links
 - [Docker Hub](https://hub.docker.com/r/desmondddd/ubuntu-toolbox-cn)
-- [Github](https://github.com/desmondddd/ubuntu-tookbox-cn)
+- [Github](https://github.com/desmondddd/ubuntu-toolbox-cn)
